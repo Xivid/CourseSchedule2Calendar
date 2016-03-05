@@ -1,5 +1,4 @@
-课表-日历转换工具
-Course Schedule To Caldendar Converter
+课表-日历转换工具(Course Schedule To Caldendar Converter)
 ==============
 
 Requires: 
@@ -12,5 +11,7 @@ Runs on Python 3.4.
 
 --------------
 Yang Zhifei
+
 Computer Science Honor Class 2013
+
 Harbin Institute of Technology
